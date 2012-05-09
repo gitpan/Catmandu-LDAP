@@ -1,0 +1,11 @@
+Build.PL
+Changes
+lib/Catmandu/Importer/LDAP.pm
+lib/Catmandu/LDAP.pm
+MANIFEST			This list of files
+README
+t/00-load.t
+Makefile.PL
+LICENSE
+META.yml
+META.json
