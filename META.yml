@@ -21,7 +21,7 @@ provides:
     version: 0
   Catmandu::LDAP:
     file: lib/Catmandu/LDAP.pm
-    version: 0.01
+    version: 0.0101
 requires:
   Catmandu: 0.01
   Moo: 0.091004
@@ -29,4 +29,4 @@ requires:
   perl: v5.10.0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.0101
